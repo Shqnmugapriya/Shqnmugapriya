@@ -1,127 +1,161 @@
-<!-- PROFILE HEADER -->
-
-<h1 align="center">Hi there, I'm Shanmugapriya S 👋</h1>
-
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
+# ✦ SHANMUGAPRIYA S | DEVELOPER PROFILE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Ideas+Into+Applications;Exploring+Software+Engineering;Learning+Something+New+Every+Day" />
+  <img src="YOUR_ANIME_BANNER_IMAGE_URL" width="100%" alt="Anime-inspired developer banner"/>
+</p>
+
+<h3 align="center">🌸 Welcome to my little corner of the coding world!</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=1000&color=C4A7E7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Development+Enthusiast;Exploring+AI+%26+Data+Science;Learning.+Building.+Growing.+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <i>"Every great creation begins with a curious mind."</i> ✨
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 About Me
 
-- 🎓 Final-year B.Tech student in Artificial Intelligence and Data Science.
-- 💻 Interested in Software Engineering and Full-Stack Development.
-- 🌱 Currently exploring Java, Spring Boot, React.js and Python.
-- 🤖 Interested in AI-powered applications and intelligent systems.
-- 🧪 Exploring Software Testing and quality engineering.
-- 🚀 Passionate about building practical solutions through technology.
+Hello! I'm **Shanmugapriya**, a final-year B.Tech student in Artificial Intelligence and Data Science at Karpagam Institute of Technology.
+
+I'm passionate about building useful software applications, exploring AI-powered solutions and improving my problem-solving skills.
+
+- 🎓 Final-year B.Tech AI & Data Science student
+- 💻 Interested in Software Development and Full-Stack Engineering
+- 🤖 Exploring Artificial Intelligence and Data Science
+- 🧪 Learning Software Testing and automation
+- 🌱 Always curious to learn and build something new
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ My Tech Universe
 
-### Programming Languages
+**Languages**
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 </p>
 
-### Frontend Development
+**Frontend & Backend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,spring,nodejs,html,css,bootstrap,tailwind" />
 </p>
 
-### Backend & Database
+**Database & Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,vscode" />
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
-</p>
+**Core Concepts**
 
-### Areas of Interest
-
-`Full-Stack Development` `Artificial Intelligence` `Machine Learning` `Software Testing` `REST APIs` `Problem Solving`
+`OOP` · `DBMS` · `Operating Systems` · `DSA` · `REST APIs` · `Manual Testing` · `Automation Testing` · `Selenium`
 
 ---
 
-## 🚀 Featured Projects
+## 🎀 My Featured Projects
 
-### 🍽️ Smart Food-Court Queue Allocation System
-**Java | Spring Boot | React.js | MySQL | JWT**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Developed a full-stack food ordering and queue management application.
-- Implemented REST APIs and JWT-based authentication.
-- Designed role-based access for Admin, Staff and Student.
-- Implemented token generation, order tracking and status management.
+### 🌸 01. Smart Food-Court Queue System
 
-### 🤖 AI-Powered PPT Analyzer
-**Java | Spring Boot | React.js | OCR | Gemini API**
+A full-stack application for food ordering, token generation, queue management and order tracking with role-based authentication.
 
-- Developed an AI-powered presentation analysis application.
-- Extracted content from PowerPoint and PDF files using OCR.
-- Integrated Gemini AI to evaluate clarity, organization and missing information.
-- Generated suggestions to improve presentation content.
+**Technologies**
 
-### 🧍 Human Activity Analyzer
-**Python | OpenCV | MediaPipe | Deep Learning**
+`Java` `Spring Boot` `React` `MySQL` `JWT`
 
-- Explored pose-based human activity recognition.
-- Used body landmarks to distinguish sitting, standing and walking activities.
-- Developed a prototype for activity classification.
+[✧ Explore Project](YOUR_FOODCOURT_REPO_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 💜 02. AI-Powered PPT Analyzer
+
+An intelligent presentation analyzer that extracts slide content through OCR and provides AI-powered suggestions using Gemini.
+
+**Technologies**
+
+`Java` `Spring Boot` `React` `OCR` `Gemini API`
+
+[✧ Explore Project](YOUR_PPT_ANALYZER_REPO_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌙 03. Human Activity Analyzer
+
+A computer vision prototype that identifies sitting, standing and walking activities using human pose landmarks.
+
+**Technologies**
+
+`Python` `OpenCV` `MediaPipe` `Deep Learning`
+
+[✧ Explore Project](YOUR_ACTIVITY_ANALYZER_REPO_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ 04. The Next Chapter
+
+Continuously exploring new technologies, developing practical applications and improving my engineering skills.
+
+**Currently Exploring**
+
+`Software Engineering` `AI Applications` `Problem Solving`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shqnmugapriya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shqnmugapriya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shqnmugapriya&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🏆 Certifications & Achievements
+## 🏆 Achievements & Certifications
 
 - Microsoft Azure Fundamentals
-- HackerRank SQL – Basic, Intermediate & Advanced
+- HackerRank SQL — Basic, Intermediate & Advanced
+- HackerRank Problem Solving — Basic
 - IBM Deep Learning Fundamentals
-- NPTEL Computer Vision
 - freeCodeCamp Responsive Web Design
-- Google Cloud – Introduction to Generative AI
+- NPTEL Computer Vision
+- Google Cloud / Simplilearn — Introduction to GenAI Studio
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shqnmugapriya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shqnmugapriya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/Shqnmugapriya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-242938?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/shanmugapriya-s-4a41692a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-B9A1E8?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:shaunmugapriya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say_Hello-E9A6C7?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
----
-
-<h3 align="center">✨ Code. Create. Learn. Repeat.</h3>
+<p align="center">
+  <i>🌸 Keep learning, keep creating, and keep moving forward.</i>
+</p>
 
 <p align="center">
-  <i>Thanks for visiting my profile. Let's connect and build something meaningful!</i>
+  <b>Thanks for visiting my profile! ✨</b>
 </p>
