@@ -1,7 +1,11 @@
 # ✦ SHANMUGAPRIYA S | DEVELOPER PROFILE
 
 <p align="center">
-  <img src="anime-banner.png" width="100%" alt="Anime-inspired developer banner"/>
+  <img
+    src="./anime-banner.png"
+    width="100%"
+    alt="Cyber anime developer banner"
+  />
 </p>
 
 <h3 align="center">🌸 Welcome to my little corner of the coding world!</h3>
